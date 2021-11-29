@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/lang_hi"
+        android:orderInCategory="101"
+        android:title="@string/menu_lang_hi"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/lang_en"
+        android:orderInCategory="100"
+        android:title="@string/menu_lang_en"
+        app:showAsAction="never" />
+</menu>

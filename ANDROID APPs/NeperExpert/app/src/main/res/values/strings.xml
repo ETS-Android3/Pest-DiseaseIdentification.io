@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Neper - Expert</string>
+
+    <string-array name="disease_names">
+        <item>Brown Spot</item>
+        <item>False Smut</item>
+        <item>Brown Plant Hopper</item>
+    </string-array>
+</resources>

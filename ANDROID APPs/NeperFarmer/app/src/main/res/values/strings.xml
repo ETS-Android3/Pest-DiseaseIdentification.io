@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Neper\nFarmer</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Neper Farmer</string>
+    <string name="nav_header_subtitle">Neper</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_lang_en">English</string>
+    <string name="menu_lang_hi">Hindi</string>
+    <string name="dd_txt_disease_name">Disease Name</string>
+    <string name="dd_txt_cause">Cause</string>
+    <string name="dd_txt_precaution">Precaution</string>
+    <string name="dd_txt_symptom">Symptom</string>
+    <string name="dd_txt_natural_treatment">Natural Treatment</string>
+    <string name="dd_txt_pesticides">Pesticides</string>
+    <string name="iu_btn_capture_image">Capture Image</string>
+    <string name="iu_btn_gallery_image">Gallery Image</string>
+    <string name="iu_btn_upload">Upload</string>
+    <string name="iu_btn_learn_more">Learn More</string>
+    <string name="lc_txt_choose_language">Choose Language</string>
+    <string name="lc_btn_hindi">Hindi</string>
+    <string name="lc_btn_english">English</string>
+    <string name="mr_et_mobile_number">Mobile Number</string>
+    <string name="mr_btn_submit">Submit</string>
+    <string name="vo_et_otp">OTP</string>
+    <string name="vo_btn_submit">Submit</string>
+    <string name="vo_btn_request_otp">Request OTP</string>
+    <string name="hs_txt_cabbage">Cabbage</string>
+    <string name="hs_txt_potato">Potato</string>
+    <string name="hs_txt_cotton">Cotton</string>
+    <string name="hs_txt_maize">Maize</string>
+    <string name="hs_txt_rice">Rice</string>
+    <string name="hs_txt_wheat">Wheat</string>
+    <string name="chs_txt_aboutus">About Us</string>
+    <string name="chs_txt_shareapp">Share App</string>
+    <string name="chs_txt_rating">Rating</string>
+
+</resources>

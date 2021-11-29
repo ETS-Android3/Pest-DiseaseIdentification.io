@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/background_light"
+            android:gravity="center"
+            android:padding="32dp"
+            android:src="@mipmap/ic_launcher_foreground" />
+
+        <TextView
+            android:id="@+id/team"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Our Team Members "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/t1"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Safwan Ghanem "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+        <TextView
+            android:id="@+id/t2"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Shakti Kumari "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Rubina Naaz "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/t4"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Rashmi Prava Nayak "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/t5"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Bandita Sahoo "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/t6"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Ajeet Kumar "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+        <TextView
+            android:id="@+id/t7"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Our Mentor Dr. Priyadarshi Kanungo "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+        <TextView
+            android:id="@+id/t8"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="Our Mentor Subhashish Das Mohapatra "
+            android:textSize="10dp"
+            android:textStyle="italic"/>
+        <TextView
+            android:id="@+id/t9"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="#000000"
+            android:text="We are from C V Raman College Of Engineering"
+            android:textSize="10dp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+</ScrollView>
